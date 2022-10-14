@@ -1,5 +1,5 @@
 package jpabook.jpashop.domain;
 
-public enum OrerStatus {
+public enum OrderStatus {
     ORDER, CANCEL
 }
